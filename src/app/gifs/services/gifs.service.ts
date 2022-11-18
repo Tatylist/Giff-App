@@ -50,5 +50,6 @@ export class GifsService {
       localStorage.setItem('resultados', JSON.stringify(this.resultados));
 
       })
+      //
   } 
 }
